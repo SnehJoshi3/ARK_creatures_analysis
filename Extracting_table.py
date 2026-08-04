@@ -10,6 +10,7 @@ html_content = """ html_content for extracting the table"""
 
 dfs = pd.read_html(StringIO(html_content))
 
+#Pulled the first table
 df = dfs[1]
 print(df.head(5))
 df.to_excel('ARK_dino.xlsx')
