@@ -11,4 +11,5 @@ In nature, herbivores outnumber carnivores to maintain balance. In ARK, **Carniv
 * **Streamlit Web App:** Interactive Python dashboard with live filters.
 * **Excel Dashboard:** Dynamic Pivot Charts and Slicers.
 
-**Conclusion** : Nature in ARK hates you....
+**Conclusion** : Nature in ARK hates you.... Also herbivores hate you if you accidently enter in their private space..
+
