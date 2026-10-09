@@ -1,15 +1,30 @@
-# ARK_creatures_analysis
+# Creature Statistics Data Analysis & Dashboard
 
-# 🦖 Nature Hates You: An Analysis of ARK's Prehistoric Ecosystem
+## Project Overview
+An interactive data visualization dashboard analyzing creature traits, diets, temperaments, and breeding capabilities. Built to demonstrate data cleaning, aggregation, and interactive dashboard design.
 
-An exploratory data analytics project analyzing creature behavior, diet distributions, and survival odds in ARK: Survival Evolved.
+## Key Features & Visualizations
+- **Rideable & Tameable Ratios**: Donut chart breakdowns of creature interactivity.
+- **Temperament Analysis**: Ranking of the top creature temperaments.
+- **Dietary Breakdown**: Bar chart detailing dietary categories across species.
+- **Breeding Capability**: Distribution of breedable vs. non-breedable creatures.
+- **Interactive Search**: Dynamic creature selection filter.
 
-## 💡 Key Finding
-In nature, herbivores outnumber carnivores to maintain balance. In ARK, **Carnivores dominate the island, and over 70% of them want to eat you on sight.**
+## Tools Used
+- **Python and Libraires** : For extracting the data.
+- **BI Tool**: Power BI / Tableau / Python (Streamlit/Dash)
+- **Data Processing**: Excel / Pandas / SQL
 
-## 📊 Dashboards Included
-* **Streamlit Web App:** Interactive Python dashboard with live filters.
-* **Excel Dashboard:** Dynamic Pivot Charts and Slicers.
+## Key Insights
+1. A majority of the listed creatures are rideable (~59.5%).
+2. Carnivores form the largest single dietary group (~79 species).
+3. "Aggressive" is by far the most dominant temperament trait.
 
-**Conclusion** : Nature in ARK hates you.... Also herbivores hate you if you accidently enter in their private space..
+## How to View
+1. Download the `.pbix` / `.twbx` file from the repository.
+2. Open using the corresponding BI application, or view the static screenshot above.
+3. 
+## Screenshot
+<img width="1325" height="741" alt="image" src="https://github.com/user-attachments/assets/ccc34df4-ce57-4acb-8c5f-04eb75116de2" />
+
 
