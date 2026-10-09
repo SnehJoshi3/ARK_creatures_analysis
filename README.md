@@ -11,9 +11,20 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
 - **Interactive Search**: Dynamic creature selection filter.
 
 ## Tools Used
-- **Python and Libraires** : For extracting the data.
-- **BI Tool**: Power BI 
-- **Data Processing**: Pandas
+###  Python & Libraries (Extracting Data)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+</a>
+
+### BI Tool
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
+</a>
+
+### Data Processing
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+</a>
 
 ## Key Insights
 1. A majority of the listed creatures are rideable (~59.5%).
