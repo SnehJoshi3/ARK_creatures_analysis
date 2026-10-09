@@ -11,14 +11,11 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
 - **Interactive Search**: Dynamic creature selection filter.
 
 ## Tools Used
-**Python & Libraries (Data Extraction):**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Python & Libraries**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**BI Tool:**  
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+**BI Tool:**  ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Data Processing:**  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Data Processing:**  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Key Insights
 1. A majority of the listed creatures are rideable (~59.5%).
