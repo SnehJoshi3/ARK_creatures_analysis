@@ -12,8 +12,8 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
 
 ## Tools Used
 - **Python and Libraires** : For extracting the data.
-- **BI Tool**: Power BI / Tableau / Python (Streamlit/Dash)
-- **Data Processing**: Excel / Pandas / SQL
+- **BI Tool**: Power BI 
+- **Data Processing**: Pandas
 
 ## Key Insights
 1. A majority of the listed creatures are rideable (~59.5%).
