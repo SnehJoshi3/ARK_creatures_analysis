@@ -23,8 +23,6 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
 ## How to View
 1. Download the `.pbix` / `.twbx` file from the repository.
 2. Open using the corresponding BI application, or view the static screenshot above.
-3. 
+   
 ## Screenshot
-<img width="1325" height="741" alt="image" src="https://github.com/user-attachments/assets/ccc34df4-ce57-4acb-8c5f-04eb75116de2" />
-
-
+<img width="1325" height="743" alt="image" src="https://github.com/user-attachments/assets/48c8701f-90e0-46f0-ac6e-c9f8fe6afd5a" />
