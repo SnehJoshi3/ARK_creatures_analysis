@@ -26,7 +26,6 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
    
 ## Screenshots
 ## PowerBI Dashboard
-<img width="1325" height="743" alt="image" src="https://github.com/user-attachments/assets/48c8701f-90e0-46f0-ac6e-c9f8fe6afd5a" />
-
+<img width="1061" height="597" alt="image" src="https://github.com/user-attachments/assets/ba7d7056-f33b-447b-bcdf-c50988c4f92d" />
 ## Excel Dashboard
 <img width="761" height="441" alt="image" src="https://github.com/user-attachments/assets/80957b4d-e28e-41f7-894a-cc61ef7379e9" />
